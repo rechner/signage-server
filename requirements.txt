@@ -1,8 +1,8 @@
-Flask
-PyYAML
-tinydb
-waitress
-Pillow
-moviepy
+Flask~=3.1
+PyYAML~=6.0
+tinydb~=4.8
+waitress~=3.0
+Pillow~=11.3
+moviepy~=2.2
 # CLI
-python-magic==0.4.27
+python-magic~=0.4.27
