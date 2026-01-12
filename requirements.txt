@@ -1,13 +1,8 @@
-Flask~=2.2.5
-tinydb==4.5.1
-PyYAML==5.4.1
-waitress~=2.1.1
-
-# For Image Files
-Pillow~=9.5.0
-
-# For Video Files
-moviepy==1.0.3
-
+Flask
+PyYAML
+tinydb
+waitress
+Pillow
+moviepy
 # CLI
 python-magic==0.4.27
